@@ -1,0 +1,16 @@
+package com.coachapp;
+
+public class HelloSpringApp {
+
+	public static void main(String[] args) {
+		// load spring configuration file
+		
+		// retrieve beans from spring container
+		
+		// call methods on beans
+		
+		// close the context
+
+	}
+
+}
